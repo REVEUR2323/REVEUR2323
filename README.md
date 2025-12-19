@@ -2,7 +2,7 @@
 
 #  Hello, I’m **REVEUR2323**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=IT+Student+and+Tech+Enthusiast;Mobile+App+Developer+in+Progress;Flutter+%7C+Firebase+%7C+AI+Projects;Building+Practical+Systems+from+Ideas" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=8A2BE2&center=true&vCenter=true&width=650&lines=IT+Student+and+Tech+Enthusiast;Mobile+App+Developer+in+Progress;Flutter+%7C+Firebase+%7C+AI+Projects;Building+Practical+Systems+from+Ideas" />
 
 </div>
 
@@ -70,8 +70,8 @@ My interests revolve around UI/UX design, mobile and web interfaces, and academi
 ---
 
 ##  Quick Fact
-I enjoy fixing errors
-
+-  **Always learning and improving**
+-  **Uses tools like Figma, Flutter UI, and Material Design**
 ---
 
 <div align="center">
